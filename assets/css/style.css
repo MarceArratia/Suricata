@@ -1,8 +1,38 @@
+     
       .bg-rosado {
         background: #e83e8c;
         color: white;
       }
 
-      h1{
+      .imagenNavbar{
+        width:132px;
+         height:53px;
+      }
+
+      h1 h2 h3{
         font: Bold 60px/82px Open Sans;
       }
+
+      .bg-rosadoFooter{
+        background: #e83e8c;
+        text-align: center;
+        width:100%;
+        height:184px;
+      }
+
+      .icons-section{
+        padding-top: 40px;
+      }
+
+      .logoFooter{
+      width:53px;
+      height:100px;
+      padding-top: 10px;
+      }
+
+      .imgTarjeta{
+        width: 80px;
+        height: 53px;
+      }
+
+   
